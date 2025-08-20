@@ -258,10 +258,6 @@ if __name__ == "__main__":
             secondyearCSEA()
             exit()
             
-        
-
-        elif "sample" in query:
-            os.startfile("C:\\Users\\Shiva Kumar\\Downloads\\Professional English.pdf")
-            book = open("C:\\Users\\Shiva Kumar\\Downloads\\Professional English.pdf",'rb')
         elif "bye" in query:
             exit()
+
